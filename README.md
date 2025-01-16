@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muatar Chandio
 ======================================================================================================================================
 
-Java Developer and Web Developer
+Java Full Stack Developer 
 --------------------------------
-
-I am a backend developer , I love Java
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [muatarchandio@gmail.com](mailto:muatarchandio@gmail.com )
